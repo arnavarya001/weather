@@ -1,0 +1,12 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/weather.html"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/weather"
+  to = "/"
+  status = 301
